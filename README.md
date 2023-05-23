@@ -1,9 +1,11 @@
-[![build](https://github.com/momo5502/boiii/workflows/Build/badge.svg)](https://github.com/momo5502/boiii/actions)
-[![bugs](https://img.shields.io/github/issues/captainqwastaken/boi/bug?label=Bugs)](https://github.com/captainqwastaken/boi/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
-[![github](https://img.shields.io/badge/GitHub-support-c96198.svg?logo=github)](https://github.com/sponsors/captainqwastaken)
+# We have made the difficult decision to shut down our project.
+[Read our annoucement here.](https://boi.funkyducks.repl.co/)
+
+<br>
+<br><br>
 
 
-# BOI
+## BOI
 ☄️ Reverse engineering of Call of Duty: Black Ops I, the way it should be done.
 
 <img src="https://www.meme-arsenal.com/memes/e96dda5a0c7858f8a093769f35795c31.jpg" width="500px" height="400px">
